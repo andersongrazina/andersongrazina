@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersongrazina" alt="andersongrazina" /></a> </p>
 
+[![andersongrazina's GitHub | Stats](https://stats.quira.sh/andersongrazina/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=andersongrazina)
+
 - 🔭 I’m currently working on [Critical Software](https://criticalsoftware.com/pt)
 
 - 🌱 I’m currently learning **Angular, TypeScript and React**
