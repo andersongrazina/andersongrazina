@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **andersongrazina@gmail.com**
 
-- ⚡ Fun fact **I'm a gym rat and I love to watch e-Sports**
+- ⚡ Fun fact **I'm a gym rat and I love to watch e-sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
